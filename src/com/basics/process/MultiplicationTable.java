@@ -1,4 +1,4 @@
-package com.basics;
+package com.basics.process;
 
 public class MultiplicationTable {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.basics;
+package com.basics.structure;
 
 public class Val {
     static  int times=24;

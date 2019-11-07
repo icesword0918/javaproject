@@ -1,4 +1,4 @@
-package com.basics;
+package com.basics.structure;
 
 public class HelloWord {
     public static void main(String[] args) {
